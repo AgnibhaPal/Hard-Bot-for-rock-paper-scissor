@@ -41,7 +41,6 @@ while ix:
       print('Game Version: 0.1')
       print('Game Idea by: Xie Zhaozhi')
       print('Creator github: https://github.com/AgnibhaPal')
-      print('Game Stage: Testing')
       ans = input('> ')
       if ans.lower() == 'a':
        clear()
