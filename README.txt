@@ -13,6 +13,8 @@ But please read this document after you want to do something or write something 
 . there is no harmful content or any NSFW content or any harmful speech 
 
 . please read and thanks again for playing my game
-
+--
+the game contain a hard bot that have 99% to win every time , yes if you use your brain or use any rock paper scissor staregetics then you can win but the bot use a popular rock paper scissor staregetics , i am not going to tell you find your self out .shhhhhh............
+--
 
 ~ Agnibha Pal
