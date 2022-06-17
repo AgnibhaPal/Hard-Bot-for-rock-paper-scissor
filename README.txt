@@ -14,7 +14,9 @@ But please read this document after you want to do something or write something 
 
 . please read and thanks again for playing my game
 --
-the game contain a hard bot that have 99% to win every time , yes if you use your brain or use any rock paper scissor staregetics then you can win but the bot use a popular rock paper scissor staregetics , i am not going to tell you find your self out .shhhhhh............
+the game contain a hard bot that have 99% to win every time , yes if you use your brain or use any rock paper scissor 
+strategic then you can win but the bot use a popular rock paper scissor strategic , I am not going to tell you find your 
+self out .shhhhhh............
 --
 
 ~ Agnibha Pal
